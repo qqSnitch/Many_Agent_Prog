@@ -1,0 +1,3 @@
+﻿  MA_laba2.cpp
+C:\Users\s0177249\source\repos\MA_laba2\MA_laba2\MA_laba2.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MA_laba2.vcxproj -> C:\Users\s0177249\source\repos\MA_laba2\x64\Debug\MA_laba2.exe
