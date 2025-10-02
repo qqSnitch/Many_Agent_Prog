@@ -143,6 +143,7 @@ int main() {
 		for (int j = 0; j < m; j++) {
 			cout << agents[i].patents[j] << " ";
 		}
-		cout << '\n';
+		cout <<" count of iterations: " << agents[i].count_iter << '\n';
 	}
+
 }
