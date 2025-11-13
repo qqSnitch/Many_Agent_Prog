@@ -1,0 +1,4 @@
+﻿  MA_laba5.cpp
+C:\Users\user\source\repos\MA_laba5\MA_laba5\MA_laba5.cpp(278,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\MA_laba5\MA_laba5\MA_laba5.cpp(405,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MA_laba5.vcxproj -> C:\Users\user\source\repos\MA_laba5\x64\Debug\MA_laba5.exe
