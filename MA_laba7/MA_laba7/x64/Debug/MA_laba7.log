@@ -1,0 +1,6 @@
+﻿  MA_laba7.cpp
+C:\Users\user\source\repos\MA_laba7\MA_laba7\MA_laba7.cpp(670,65): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\MA_laba7\MA_laba7\MA_laba7.cpp(671,63): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\MA_laba7\MA_laba7\MA_laba7.cpp(672,67): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\MA_laba7\MA_laba7\MA_laba7.cpp(673,69): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  MA_laba7.vcxproj -> C:\Users\user\source\repos\MA_laba7\x64\Debug\MA_laba7.exe
