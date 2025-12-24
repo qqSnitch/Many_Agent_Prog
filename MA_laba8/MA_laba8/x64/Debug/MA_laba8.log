@@ -1,0 +1,7 @@
+﻿  MA_laba8.cpp
+C:\Users\user\source\repos\MA_laba8\MA_laba8\MA_laba8.cpp(456,78): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\user\source\repos\MA_laba8\MA_laba8\MA_laba8.cpp(456,78): warning C4267:         with
+C:\Users\user\source\repos\MA_laba8\MA_laba8\MA_laba8.cpp(456,78): warning C4267:         [
+C:\Users\user\source\repos\MA_laba8\MA_laba8\MA_laba8.cpp(456,78): warning C4267:             _Ty=int
+C:\Users\user\source\repos\MA_laba8\MA_laba8\MA_laba8.cpp(456,78): warning C4267:         ]
+  MA_laba8.vcxproj -> C:\Users\user\source\repos\MA_laba8\x64\Debug\MA_laba8.exe
